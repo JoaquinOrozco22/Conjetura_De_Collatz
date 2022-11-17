@@ -27,6 +27,7 @@ int main()
 		}while(numero!=1);
 		cout<<"\nNumero de pasos: "<<contador<<endl;
 		cout<<"\nLa Conjetura de Collatz sigue siendo verdadera."<<endl;
+		cout<<"\nCommit_1."<<endl;
 
 	
 	getch();
